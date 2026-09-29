@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/Chibi-tyk/haven-api.git
+[submodule "app"]
+	path = app
+	url = https://github.com/Chibi-tyk/haven-app.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Chibi-tyk/haven-mobile.git
